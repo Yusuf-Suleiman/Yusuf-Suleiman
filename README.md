@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Yusuf Suleiman 👋
 
-<!--
-**Yusuf-Suleiman/Yusuf-Suleiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | SaaS Analytics**
 
-Here are some ideas to get you started:
+I turn SaaS data into insights using Excel dashboards, pivot tables, and data cleaning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tools & Skills
+- Excel (Dashboards, Pivot Tables, Formulas, Data Cleaning)
+- Data Analysis (Revenue, Churn, Customer Retention)
+- Business Insights from SaaS metrics
+
+---
+
+## 📊 Projects
+
+**SaaS Churn Analysis** – Analyze customer churn using Excel with dashboards and pivot tables.  
+**MRR & Revenue Retention Dashboard** – Track monthly recurring revenue trends in Excel.  
+**Customer Lifecycle Analysis** – Understand SaaS user behavior and revenue contribution.
+
+---
+
+## 📫 Contact Me
+- Email: yusufsuleiman0361@gmail.com
