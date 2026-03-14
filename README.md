@@ -16,7 +16,7 @@ I turn SaaS data into insights using Excel dashboards, pivot tables, and data cl
 ## 📊 Projects
 
 **[SaaS Churn Analysis](https://github.com/Yusuf-Suleiman/Saas-Churn-Analysis)** – Analyze customer churn using Excel with dashboards and pivot tables.  
-**MRR & Revenue Retention Dashboard** – Track monthly recurring revenue trends in Excel.  
+**MRR & Revenue Retention Analysis** – Track monthly recurring revenue trends in Excel.  
 **Customer Lifecycle Analysis** – Understand SaaS user behavior and revenue contribution.
 
 ---
