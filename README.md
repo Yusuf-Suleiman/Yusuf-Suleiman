@@ -1,3 +1,5 @@
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Yusuf-Suleiman.Yusuf-Suleiman)
+
 # Hi, I'm Yusuf Suleiman 👋
 
 **Data Analyst | SaaS Analytics**
